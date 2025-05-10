@@ -1,0 +1,22 @@
+# update data of attendance
+
+                # datetimeObj = datetime.strptime(studentInfo["last_attendance"],"%m-%d-%Y %H:%M:%S")
+                # secondsElapsed = (datetime.now()-datetimeObj).total_seconds()
+                # print(secondsElapsed)
+                #
+                # if secondsElapsed > 30:
+                #     ref = db.reference(f'Students/{id}')
+                #     studentInfo['total_attendance'] += 1
+                #     ref.child('total_attendance').set(studentInfo['total_attendance'])
+                #     # ref.child('last_attendance').set(datetime.now().strftime("%m-%d-%Y %H:%M:%S"))
+                # else:
+                #     modeType = 3
+                #     counter = 0
+                #     imageBackground[44:44 + 633, 808:808 + 414] = modeImage_List[modeType]
+
+# 10-01-2005 00:54:34 date time format
+
+
+
+date time format
+"%d %m %Y %H:%M:%S"
