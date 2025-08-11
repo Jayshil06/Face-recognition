@@ -1,7 +1,7 @@
 🎯 Face Recognition Attendance System
 A real-time attendance system using Face Recognition technology with OpenCV, face_recognition, and Firebase as a backend for storing student data and attendance records.
 
-📸 Recognize faces live via webcam, 📊 track attendance automatically, and 🔥 sync data to Firebase in real-time.
+📸 Recognize faces live via webcam, 📊 track attendance automatically, and sync data to Firebase in real-time.
 
 🚀 Features
 ✅ Real-time Face Recognition
